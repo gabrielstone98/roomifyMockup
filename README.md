@@ -1,2 +1,3 @@
 # roomifyMockup
-Created with CodeSandbox
+
+mockup grupo A para aula de Programação WEB
